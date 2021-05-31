@@ -1,0 +1,3 @@
+Ciklomatskata kompleksnost na grafot e 8.
+Dobiena spored formulata E-V+2.
+E -> broj na rebra -> 30 , V -> broj na jazli -> 24, -> 30 - 24 + 2 = 8.
